@@ -8,7 +8,7 @@ LOCAL_RUN="$4"
 # Colors
 Red="\033[0;31m"     # Red
 Default="\033[1;37m" # White
-Green="\033[0;32m"   # Green
+Green="\033[0;32m"   # Green 
 Blue="\033[0;34m"    # Blue
 BBlue="\033[1;34m"   # Bold Blue
 
